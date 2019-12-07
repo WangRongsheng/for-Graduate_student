@@ -33,6 +33,6 @@
 
 ## 1.考研政治-<a href="https://baike.baidu.com/item/肖秀荣/11045626?fr=aladdin">肖秀荣</a>
 
-## 2.考研数学-<a href="https://baike.baidu.com/item/张宇/22404640?fr=aladdin">张宇</a>、<a href="https://baike.baidu.com/item/李永乐/20184698#2">李永乐</a>
+## 2.考研数学-<a href="https://baike.baidu.com/item/张宇/22404640?fr=aladdin">张宇</a>、<a href="https://baike.baidu.com/item/李永乐/20184698#2">李永乐</a>、<a href="https://baike.baidu.com/item/汤家凤/10394377?fr=aladdin">汤家凤</a>
 
 # 三、课程
