@@ -23,6 +23,7 @@
 17. <a href="https://www.zhihu.com/question/309601783/answer/594991116">2020考研各科该买什么书？</a>
 18. <a href="https://www.zhihu.com/question/31000102/answer/487018934">考研如何选择目标学校及专业？</a>
 19. <a href="https://www.zhihu.com/question/307145774/answer/812490892">2021年考研怎么规划？</a>
+20. <a href="https://zhuanlan.zhihu.com/p/54934000">英语考研名师大盘点，这才是真正的名师</a>
 
 ## 2.计算机专业
 
@@ -34,5 +35,7 @@
 ## 1.考研政治-<a href="https://baike.baidu.com/item/肖秀荣/11045626?fr=aladdin">肖秀荣</a>
 
 ## 2.考研数学-<a href="https://baike.baidu.com/item/张宇/22404640?fr=aladdin">张宇</a>、<a href="https://baike.baidu.com/item/李永乐/20184698#2">李永乐</a>、<a href="https://baike.baidu.com/item/汤家凤/10394377?fr=aladdin">汤家凤</a>
+
+## 3.考研英语-<a href="https://baike.baidu.com/item/朱伟/20784951">朱伟</a>
 
 # 三、课程
