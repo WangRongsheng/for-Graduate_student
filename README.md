@@ -13,5 +13,11 @@
 9. <a href="https://www.zhihu.com/question/22527928/answer/130117447">考研数学怎么学?</a>
 10. <a href="https://www.zhihu.com/question/307236986/answer/691254090">考完研，你发现了考研的哪些坑?</a>
 11. <a href="https://www.zhihu.com/question/307236986/answer/609885709">考完研，你发现了考研的哪些坑?-plus</a>
-
-
+12. <a href="https://www.zhihu.com/question/46218563/answer/568826051">2021年考研该怎么规划？</a>
+13. <a href="https://zhuanlan.zhihu.com/p/35644920">考研十六条建议，不能再多</a>
+14. <a href="https://www.zhihu.com/question/334518238/answer/747356813">有哪些考研需要避开的坑?</a>
+15. <a href="https://www.zhihu.com/question/311371787/answer/718309942">2020考研英语该怎么准备？</a>
+16. <a href="https://www.zhihu.com/question/46218563/answer/128797122">2021年考研该怎么规划？</a>
+17. <a href="https://www.zhihu.com/question/309601783/answer/594991116">2020考研各科该买什么书？</a>
+18. <a href="https://www.zhihu.com/question/31000102/answer/487018934">考研如何选择目标学校及专业？</a>
+19. <a href="https://www.zhihu.com/question/307145774/answer/812490892">2021年考研怎么规划？</a>
