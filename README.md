@@ -2,6 +2,8 @@
 
 > 来自知乎
 
+## 统一科目
+
 1. <a href="https://www.zhihu.com/question/269429538">哪些问题是考研前不知道考研后才知道的？</a>
 2. <a href="https://zhuanlan.zhihu.com/p/79326941">大三开学（2021）怎么准备考研？</a>
 3. <a href="https://www.zhihu.com/question/36074877">如何弄到考研专业课真题？</a>
@@ -21,6 +23,10 @@
 17. <a href="https://www.zhihu.com/question/309601783/answer/594991116">2020考研各科该买什么书？</a>
 18. <a href="https://www.zhihu.com/question/31000102/answer/487018934">考研如何选择目标学校及专业？</a>
 19. <a href="https://www.zhihu.com/question/307145774/answer/812490892">2021年考研怎么规划？</a>
+
+## 计算机专业
+
+1. <a href="https://zhuanlan.zhihu.com/p/87019701">计算机统考408该如何应对？</a>
 
 # 书籍
 
