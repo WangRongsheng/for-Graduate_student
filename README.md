@@ -27,6 +27,7 @@
 ## 计算机专业
 
 1. <a href="https://zhuanlan.zhihu.com/p/87019701">计算机统考408该如何应对？</a>
+2. <a href="https://www.zhihu.com/question/306734323/answer/814965891">2020计算机（软件）考研，有哪些学校值得选择？</a>
 
 # 书籍
 
