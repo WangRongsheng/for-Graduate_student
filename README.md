@@ -57,4 +57,5 @@
 3. <a href="http://www.kaoyan.com/">考研帮</a>
 4. <a href="http://www.chinakaoyan.com/">中国考研网</a>
 5. <a href="http://www.eol.cn/">中国教育在线</a>
+6. <a href="http://www.eol.cn/e_ky/zt/common/kylc/pc.shtml">考研资讯</a>
 
