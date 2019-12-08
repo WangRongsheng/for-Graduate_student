@@ -35,6 +35,7 @@
 20. <a href="https://zhuanlan.zhihu.com/p/54934000">英语考研名师大盘点，这才是真正的名师</a>
 21. <a href="https://zhuanlan.zhihu.com/p/32606336">考研流程全攻略</a>
 22. <a href="https://zhuanlan.zhihu.com/p/32606580">考研流程表详细介绍</a>
+23. <a href="https://www.zhihu.com/question/308901692/answer/675911060">2020 考研跟哪些老师靠谱？</a>
 
 ## 2.计算机专业
 
