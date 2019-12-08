@@ -9,7 +9,7 @@
 
 | 我的博客 | 我的QQ | 字段3 |
 | :-- | :--: | --: |
-| <a href="https://sqdxwz.top" | <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=603329354&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:603329354:52" alt="点击这里给我发消息" title="点击这里给我发消息"/></a> | C1 |
+| <a href="https://sqdxwz.top">查看博客</a> | <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=603329354&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:603329354:52" alt="给我发消息" title="给我发消息"/></a> | C1 |
 
 # 一、踩坑？
 
