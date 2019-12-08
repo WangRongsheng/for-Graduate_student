@@ -24,6 +24,8 @@
 18. <a href="https://www.zhihu.com/question/31000102/answer/487018934">考研如何选择目标学校及专业？</a>
 19. <a href="https://www.zhihu.com/question/307145774/answer/812490892">2021年考研怎么规划？</a>
 20. <a href="https://zhuanlan.zhihu.com/p/54934000">英语考研名师大盘点，这才是真正的名师</a>
+21. <a href="https://zhuanlan.zhihu.com/p/32606336">考研流程全攻略</a>
+22. <a href="https://zhuanlan.zhihu.com/p/32606580">考研流程表详细介绍</a>
 
 ## 2.计算机专业
 
@@ -40,15 +42,17 @@
 
 ## 4.计算机考研
 
-数据结构：《数据结构C语言版》严蔚敏；<a href="https://space.bilibili.com/40323036">[b站学习]</a>
+1. 数据结构：《数据结构C语言版》严蔚敏；<a href="https://space.bilibili.com/40323036">[b站学习]</a>
 
-计算机组成原理：《计算机组成原理（第2版）》唐朔飞；
+2. 计算机组成原理：《计算机组成原理（第2版）》唐朔飞；
 
-操作系统：《计算机操作系统（第四版）》 汤小丹；
+3. 操作系统：《计算机操作系统（第四版）》 汤小丹；
 
-计算机网络：《计算机网络（第7版）》 谢希仁；
+4. 计算机网络：《计算机网络（第7版）》 谢希仁；
 
 # 三、课程
+
+1. <a href="https://zhuanlan.zhihu.com/p/32664732">考研全资料下载</a>
 
 # 四、考研参考
 
@@ -58,4 +62,9 @@
 4. <a href="http://www.chinakaoyan.com/">中国考研网</a>
 5. <a href="http://www.eol.cn/">中国教育在线</a>
 6. <a href="http://www.eol.cn/e_ky/zt/common/kylc/pc.shtml">考研资讯</a>
+7. <a href="https://yz.chsi.com.cn/sch/">考研院校库</a>
+8. <a href="https://yz.chsi.com.cn/kyinfo/">研招网</a>
+9. <a href="http://www.cnky.net/">中国考研</a>
+10. <a href="http://kaoyan.eol.cn/">中国教育在线考研频道</a>
+11. <a href="http://www.cdgdc.edu.cn/">中国学位与研究生教育信息网</a>
 
