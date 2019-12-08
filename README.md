@@ -1,4 +1,7 @@
 ![首页](https://github.com/WangRongsheng/for-Graduate_student/blob/master/imgs/home-plus.png)
+> 此库建立者：河南理工大学计算机科学与技术学院18级实验班王荣胜，非2020考研
+此库建立的意义：提前埋坑，防止不上岸
+
 # 一、踩坑？
 
 > 来自知乎
