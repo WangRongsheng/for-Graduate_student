@@ -36,6 +36,6 @@
 
 ## 2.考研数学-<a href="https://baike.baidu.com/item/张宇/22404640?fr=aladdin">张宇</a>、<a href="https://baike.baidu.com/item/李永乐/20184698#2">李永乐</a>、<a href="https://baike.baidu.com/item/汤家凤/10394377?fr=aladdin">汤家凤</a>、<a href="https://weibo.com/u/6444289173?refer_flag=1005050010_&is_hot=1">李林</a>
 
-## 3.考研英语-<a href="https://baike.baidu.com/item/朱伟/20784951">朱伟</a>
+## 3.考研英语-<a href="https://baike.baidu.com/item/朱伟/20784951">朱伟--词汇</a>、<a href="https://baike.baidu.com/item/何凯文/3113109?fr=aladdin">何凯文--长难句</a>、<a href="https://baike.baidu.com/item/唐迟">唐迟--阅读</a>、统一老师--词汇、阅读
 
 # 三、课程
