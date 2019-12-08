@@ -3,7 +3,7 @@
 
 > 此库建立的意义：提前埋坑，防止不上岸
 
-> 此库说明：本资源库将会长期维护，直至本人考研结束；如果您有好的资源，请提交issues给我
+> 此库说明：本资源库将会长期维护，直至本人考研结束；如果您有好的资源，请提交<a href="https://github.com/WangRongsheng/for-Graduate_student/issues">issues</a>给我
 
 > 跪求大佬star，甚至是fork~
 
