@@ -52,5 +52,9 @@
 
 # 四、考研参考
 
-<a href="https://www.88pu.top/">计算机考研小站</a>
+1. <a href="https://www.88pu.top/">计算机考研小站</a>
+2. <a href="https://yz.chsi.com.cn/">中国研究生招生信息网</a>
+3. <a href="http://www.kaoyan.com/">考研帮</a>
+4. <a href="http://www.chinakaoyan.com/">中国考研网</a>
+5. <a href="http://www.eol.cn/">中国教育在线</a>
 
