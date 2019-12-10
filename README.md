@@ -82,4 +82,5 @@
 9. <a href="http://www.cnky.net/">中国考研</a>
 10. <a href="http://kaoyan.eol.cn/">中国教育在线考研频道</a>
 11. <a href="http://www.cdgdc.edu.cn/">中国学位与研究生教育信息网</a>
+12. <a href="https://www.baoyantong.cn/xlysearch/">考研夏令营一键搜索系统</a>
 
