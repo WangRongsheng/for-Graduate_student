@@ -15,7 +15,7 @@
 
 ## 1、资讯了解
 
-### 1.专硕与学硕的区别
+### (1)专硕与学硕的区别
 
 |  | 专硕 | 学硕 |
 | :-- | :--: | :--: |
@@ -34,7 +34,7 @@
 
 > 来自知乎
 
-### 1.统一科目
+### (1)统一科目
 
 1. <a href="https://www.zhihu.com/question/269429538">哪些问题是考研前不知道考研后才知道的？</a>
 2. <a href="https://zhuanlan.zhihu.com/p/79326941">大三开学（2021）怎么准备考研？</a>
@@ -60,20 +60,20 @@
 22. <a href="https://zhuanlan.zhihu.com/p/32606580">考研流程表详细介绍</a>
 23. <a href="https://www.zhihu.com/question/308901692/answer/675911060">2020 考研跟哪些老师靠谱？</a>
 
-### 2.计算机专业
+### (2)计算机专业
 
 1. <a href="https://zhuanlan.zhihu.com/p/87019701">计算机统考408该如何应对？</a>
 2. <a href="https://www.zhihu.com/question/306734323/answer/814965891">2020计算机（软件）考研，有哪些学校值得选择？</a>
 
 ## 2、书籍
 
-### 1.考研政治-<a href="https://baike.baidu.com/item/肖秀荣/11045626?fr=aladdin">肖秀荣</a>
+### (1)考研政治-<a href="https://baike.baidu.com/item/肖秀荣/11045626?fr=aladdin">肖秀荣</a>
 
-### 2.考研数学-<a href="https://baike.baidu.com/item/张宇/22404640?fr=aladdin">张宇</a>、<a href="https://baike.baidu.com/item/李永乐/20184698#2">李永乐</a>、<a href="https://baike.baidu.com/item/汤家凤/10394377?fr=aladdin">汤家凤</a>、<a href="https://weibo.com/u/6444289173?refer_flag=1005050010_&is_hot=1">李林</a>
+### (2)考研数学-<a href="https://baike.baidu.com/item/张宇/22404640?fr=aladdin">张宇</a>、<a href="https://baike.baidu.com/item/李永乐/20184698#2">李永乐</a>、<a href="https://baike.baidu.com/item/汤家凤/10394377?fr=aladdin">汤家凤</a>、<a href="https://weibo.com/u/6444289173?refer_flag=1005050010_&is_hot=1">李林</a>
 
-### 3.考研英语-<a href="https://baike.baidu.com/item/朱伟/20784951">朱伟（词汇）</a>、<a href="https://baike.baidu.com/item/何凯文/3113109?fr=aladdin">何凯文（长难句）</a>、<a href="https://baike.baidu.com/item/唐迟">唐迟（阅读）</a>、统一老师（词汇、阅读）、陈正康
+### (3)考研英语-<a href="https://baike.baidu.com/item/朱伟/20784951">朱伟（词汇）</a>、<a href="https://baike.baidu.com/item/何凯文/3113109?fr=aladdin">何凯文（长难句）</a>、<a href="https://baike.baidu.com/item/唐迟">唐迟（阅读）</a>、统一老师（词汇、阅读）、陈正康
 
-### 4.计算机考研
+### (4)计算机考研
 
 1. 数据结构：《数据结构C语言版》严蔚敏；[[课程配套资料]](https://github.com/WangRongsheng/DS_Yanweimin)
 
