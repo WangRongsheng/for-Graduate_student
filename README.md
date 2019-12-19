@@ -426,6 +426,10 @@
 
 <a href="https://baike.baidu.com/item/张宇/22404640?fr=aladdin">张宇</a>、<a href="https://baike.baidu.com/item/李永乐/20184698#2">李永乐</a>、<a href="https://baike.baidu.com/item/汤家凤/10394377?fr=aladdin">汤家凤</a>、<a href="https://weibo.com/u/6444289173?refer_flag=1005050010_&is_hot=1">李林</a>
 
+<2>资料
+
+<a href="https://github.com/mathors/Postgraduate-Advanced-Mathematics">汤家凤高等数学上下册</a>
+
 ### 考研英语
 
 <1>名师
