@@ -465,11 +465,42 @@
 10. <a href="http://kaoyan.eol.cn/">中国教育在线考研频道</a>
 11. <a href="http://www.cdgdc.edu.cn/">中国学位与研究生教育信息网</a>
 12. <a href="https://www.baoyantong.cn/xlysearch/">考研夏令营一键搜索系统</a>
-13. <a href="http://www.cdgdc.edu.cn/xwyyjsjyxx/xkpgjg/">第四轮全国高校学科评估</a>
+13. <a href="http://www.cdgdc.edu.cn/xwyyjsjyxx/xkpgjg/">!!!!!!!!!第四轮全国高校学科评估!!!!!!!!!!</a>
+14. <a href="http://bbs.kaoyan.com/">考研论坛</a>
 
 ## 微信公众号
 
 ### 统考
+
+小白考研
+
+考研狗之家
+
+最强考研
+
+中公考研网
+
+跨考考研
+
+考虫考研
+
+考研派之家
+
+快乐考研人
+
+考研路加油
+
+考研包
+
+考研狗的书单
+
+考研军火库
+
+考研人的解忧杂货店
+
+考研成长笔记
+
+研招网
 
 ### 计算机
 
@@ -479,7 +510,17 @@
 
 计算机考研助手
 
-## 其他平台
+## APP
+
+口袋题库
+
+粉笔考研
+
+考研帮
+
+考研派
+
+经验超市
 
 # 鼓励坚持系列
 
