@@ -489,6 +489,10 @@
 1. <a href="https://zhuanlan.zhihu.com/p/32664732">考研（统考）下载</a>
 2. <a href="https://space.bilibili.com/40323036">数据结构-配严蔚敏课本</a>
 
+## 考研中准备
+
+开封，封闭试卷？
+
 # 三、复试准备系列
 
 # 四、考研参考系列
