@@ -378,7 +378,11 @@
 
 # 初试准备系列
 
-## 踩坑？
+## 院校选择
+
+## 学习计划
+
+## 学习内容
 
 ### 统考
 
@@ -412,15 +416,15 @@
 1. <a href="https://zhuanlan.zhihu.com/p/87019701">计算机统考408该如何应对？</a>
 2. <a href="https://www.zhihu.com/question/306734323/answer/814965891">2020计算机（软件）考研，有哪些学校值得选择？</a>
 
-## 书籍
+### 书籍
 
-### 考研政治
+#### 考研政治
 
 <1>名师
 
 <a href="https://baike.baidu.com/item/肖秀荣/11045626?fr=aladdin">肖秀荣</a>
 
-### 考研数学
+#### 考研数学
 
 <1>名师
 
@@ -430,14 +434,14 @@
 
 <a href="https://github.com/mathors/Postgraduate-Advanced-Mathematics">汤家凤高等数学上下册</a>
 
-### 考研英语
+#### 考研英语
 
 <1>名师
 
 <a href="https://baike.baidu.com/item/朱伟/20784951">朱伟（词汇）</a>、<a href="https://baike.baidu.com/item/何凯文/3113109?fr=aladdin">何凯文（长难句）</a>、<a href="https://baike.baidu.com/item/唐迟">唐迟（阅读）</a>、统一老师（词汇、阅读）、陈正康
 
 
-### 计算机考研
+#### 计算机考研
 
 1. 数据结构：《数据结构C语言版》严蔚敏；[[课程配套资料]](https://github.com/WangRongsheng/DS_Yanweimin)<a href="https://space.bilibili.com/40323036">[数据结构-配严蔚敏课本]</a>
 
@@ -447,7 +451,7 @@
 
 4. 计算机网络：《计算机网络（第7版）》 谢希仁；
 
-## 考研考试中
+## 考研考试中注意点
 
 开封，封闭试卷？
 
