@@ -489,7 +489,11 @@
 1. <a href="https://zhuanlan.zhihu.com/p/32664732">考研（统考）下载</a>
 2. <a href="https://space.bilibili.com/40323036">数据结构-配严蔚敏课本</a>
 
-## 4、考研参考
+# 三、复试及相关准备
+
+# 四、考研参考
+
+## 1、网站
 
 1. <a href="https://www.88pu.top/">计算机考研小站</a>
 2. <a href="https://yz.chsi.com.cn/">中国研究生招生信息网</a>
@@ -505,5 +509,6 @@
 12. <a href="https://www.baoyantong.cn/xlysearch/">考研夏令营一键搜索系统</a>
 13. <a href="http://www.cdgdc.edu.cn/xwyyjsjyxx/xkpgjg/">第四轮全国高校学科评估</a>
 
-# 三、复试及相关准备
+## 2、微信公众号
 
+## 3、其他平台
