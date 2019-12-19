@@ -11,6 +11,12 @@
 | :-- | :--: |
 | <a href="https://sqdxwz.top">查看博客</a> | <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=603329354&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:603329354:52" alt="给我发消息" title="给我发消息"/></a> |
 
+# 是否要考研系列
+
+<a href="https://zhuanlan.zhihu.com/p/84350029">对计算机专业来说学历真的重要吗？</a>
+
+<a href="https://zhuanlan.zhihu.com/p/90396934">计算机专业有必要考研吗</a>
+
 # 早知道系列
 
 ## 基本常识了解
