@@ -565,3 +565,5 @@ Forest-注意力集中
 <a href="http://axky.ys168.com/">安心考研资料下载</a>
 
 <a href="https://github.com/csseky/cskaoyan">各高校计算机408考研历年真题</a>
+
+<a href="https://pan.baidu.com/s/1LzyFrrfNK3wXbCbkvDu0hA">保研礼包（提取码：s7c8）</a>
