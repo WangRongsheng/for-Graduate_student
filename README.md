@@ -468,7 +468,7 @@
 
 院校选择我们主要是这样来综合考量：
 
-![](/img/school-choose.jpg)
+![](https://github.com/WangRongsheng/for-Graduate_student/blob/master/imgs/school-choose.jpg)
 
 ### 自身原因
 
@@ -487,6 +487,8 @@
 此外，家庭因素也是我们不得不纳入考虑的因素。尽管我们最主要的是为自己人生负责，但是家庭在一定程度上约束着我们的选择。家庭经济、思想以及家人意见等因素也是大家在选择学校需要纳入考虑范围的。
 
 ### 学校因素
+
+![](https://github.com/WangRongsheng/for-Graduate_student/blob/master/imgs/school.jpg)
 
 院校本身的各项因素是我们在做选择时最需要综合衡量的根本，在选择之前可以多考虑以下四个方面：
 
