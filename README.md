@@ -380,9 +380,7 @@
 
 ## 踩坑？
 
-> 来自知乎
-
-### 统一科目
+### 统考
 
 1. <a href="https://www.zhihu.com/question/269429538">哪些问题是考研前不知道考研后才知道的？</a>
 2. <a href="https://zhuanlan.zhihu.com/p/79326941">大三开学（2021）怎么准备考研？</a>
@@ -407,6 +405,7 @@
 21. <a href="https://zhuanlan.zhihu.com/p/32606336">考研流程全攻略</a>
 22. <a href="https://zhuanlan.zhihu.com/p/32606580">考研流程表详细介绍</a>
 23. <a href="https://www.zhihu.com/question/308901692/answer/675911060">2020 考研跟哪些老师靠谱？</a>
+24. <a href="https://zhuanlan.zhihu.com/p/32664732">考研（统考）下载</a>
 
 ### 计算机专业
 
@@ -436,18 +435,13 @@
 
 ### 计算机考研
 
-1. 数据结构：《数据结构C语言版》严蔚敏；[[课程配套资料]](https://github.com/WangRongsheng/DS_Yanweimin)
+1. 数据结构：《数据结构C语言版》严蔚敏；[[课程配套资料]](https://github.com/WangRongsheng/DS_Yanweimin)<a href="https://space.bilibili.com/40323036">[数据结构-配严蔚敏课本]</a>
 
 2. 计算机组成原理：《计算机组成原理（第2版）》唐朔飞；
 
 3. 操作系统：《计算机操作系统（第四版）》 汤小丹；
 
 4. 计算机网络：《计算机网络（第7版）》 谢希仁；
-
-## 课程
-
-1. <a href="https://zhuanlan.zhihu.com/p/32664732">考研（统考）下载</a>
-2. <a href="https://space.bilibili.com/40323036">数据结构-配严蔚敏课本</a>
 
 ## 考研考试中
 
@@ -474,6 +468,16 @@
 13. <a href="http://www.cdgdc.edu.cn/xwyyjsjyxx/xkpgjg/">第四轮全国高校学科评估</a>
 
 ## 微信公众号
+
+### 统考
+
+### 计算机
+
+灰灰考研
+
+计算机与软件考研
+
+计算机考研助手
 
 ## 其他平台
 
