@@ -470,6 +470,10 @@
 
 ![](https://github.com/WangRongsheng/for-Graduate_student/blob/master/imgs/school-choose.jpg)
 
+优秀计算机考研学校：
+
+<img src="https://s1.ax1x.com/2020/08/01/a3FyRK.jpg" alt="a3FyRK.jpg" border="0" />
+
 ### 自身原因
 
 都说考研是人生的一个跳板，是让人生方向的一个重置键，再加上经过大学几年的锻炼和沉淀，我们应该更明确了自己未来想走的路。所以在考研选择院校的这一个十字路口上，我建议大家能够更加理性地把“自己”纳入到考虑当中，而不是盲从别人的建议或所谓的社会因素。
