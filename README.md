@@ -1,15 +1,4 @@
 ![首页](https://github.com/WangRongsheng/for-Graduate_student/blob/master/imgs/home-plus.png)
-> 此库的建立者：河南理工大学计算机科学与技术学院18级实验班王荣胜，非2020与2021考研人
-
-> 此库建立的意义：提前埋坑，防止不上岸
-
-> 此库说明：本资源库将会长期维护，直至本人考研结束；如果您有好的资源，请提交<a href="https://github.com/WangRongsheng/for-Graduate_student/issues">issues</a>给我
-
-> 跪求大佬star，甚至是fork~
-
-| 博客 | QQ |
-| :-- | :--: |
-| <a href="https://sqdxwz.top">查看博客</a> | <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=603329354&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:603329354:52" alt="给我发消息" title="给我发消息"/></a> |
 
 # 是否要考研系列
 
